@@ -1,16 +1,16 @@
-# todo_provider
+# Flutter Todo App with Provider
 
-A new Flutter project.
+This is a simple To-Do List application developed using Flutter.
 
-## Getting Started
+### Features
 
-This project is a starting point for a Flutter application.
+- Add and delete tasks.
+- Mark tasks as complete or incomplete.
+- View tasks in a list format.
+- Note: This project does not persist any tasks using local storage.
 
-A few resources to get you started if this is your first Flutter project:
+## Acknowledgments
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[YouTube](https://www.youtube.com/watch?v=b1Loe5q_Zpc).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
